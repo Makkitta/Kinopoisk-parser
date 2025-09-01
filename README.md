@@ -21,7 +21,7 @@
 
 ### Установка:
 
-1. Клонируйте репозиторий или скачайте [файли проекта](https://github.com/Makkitta/Kinopoisk-parser/blob/main/kinopoisk_parser.py).
+1. Клонируйте репозиторий или скачайте [файлы проекта](https://github.com/Makkitta/Kinopoisk-parser/blob/main/kinopoisk_parser.py).
 2. Установите необходимые зависимости из требований.
 
 ### Запуск:
