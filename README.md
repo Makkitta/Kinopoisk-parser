@@ -38,3 +38,6 @@
 
 ## Пример результатов работы парсера:
 
+- [Пример содержимого XLSX-файла](https://github.com/Makkitta/Kinopoisk-parser/blob/main/kinopoisk_ratings.xlsx)
+
+- [Пример содержимого CSV-файла](https://github.com/Makkitta/Kinopoisk-parser/blob/main/kinopoisk_ratings.csv)
